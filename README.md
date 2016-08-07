@@ -12,7 +12,7 @@ Migrate Hatebu export file (Atom feed type) to Pocket.
 
 
 ## Usage
-python hatebu2pocket dump
+python hatebu2pocket.py dump
 
 dump: Exported Atom file from Hatebu.
 
