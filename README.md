@@ -25,9 +25,9 @@ Edit "hatebu2pocket.py" and replace 'your_access_token' to your token generated 
 
 When you get your token with "get_access_token.py", use "57245-2a642b94f19c5d3e591bce26" as a consumer key.
 
-## Licence
+## License
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+MIT
 
 ## Author
 
